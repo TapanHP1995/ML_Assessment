@@ -12,7 +12,7 @@ You can simply do analysis in Google sheet/Excel also. But we prefer that you us
 
 Task 1: Google Play Store Analysis and create a well documented report in Jupyter notebook.
 
-Task 2: Now, one more task is to upload CSV as dataset in Google BigQuery. After craeting dataset on BigQuery with using API(Not GUI of BigQuery). Save the original CSV file to Google Cloud storage. This storage uploaded file will work as a backup for our system.
+Task 2: Now, one more task is to upload CSV as dataset in Google BigQuery. After creating dataset on BigQuery with using gogole APIs (Not GUI of BigQuery) in Python code. Save the original CSV file to Google Cloud storage. This uploaded file will work as a backup for our system.
 
  
 [Note: you can use any analysis techniques or methods you want, you should/can use visualization to show the analysis insights. For Analysis Use python If possible]
